@@ -11,4 +11,5 @@ ls</br><br>
 mkdir</br><br>
 touch</br><br>
 clear</br><br>
-cd ~</br>
+cd ~</br><br>
+rm </br>
